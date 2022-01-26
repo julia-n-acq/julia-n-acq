@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @julia-n-acq
 - 👀 I’m interested in theoretical ecology
 - 🌱 I’m currently learning about coevolution and spatial dynamics 
+- Using Julia programming language
 
 - 📫 How to reach me julianader95@gmail.com
 
