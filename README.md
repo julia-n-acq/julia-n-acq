@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @julia-n-acq
-- 👀 I’m interested in theoretical ecology
-- 🌱 I’m currently learning about coevolution and spatial dynamics 
-- Using R and Julia
+I'm a biologist interested in theoretical ecology, evolutionary dynamics, natural history, birds, insects, plants, niche theory and mutualisms. Currently I am learning about the effects of mutualistic coevolution on communities in local and regional spatial scales. I am using Julia to simulate the scenarios I am interested, and also using R to analyse data. 
 
-- 📫 How to reach me julianader95@gmail.com
+- 📫 How to reach me: julianader95@gmail.com
 
 <!---
 julia-n-acq/julia-n-acq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
